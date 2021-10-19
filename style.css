@@ -1,0 +1,17 @@
+#myjoke{
+    display: inline-flex;
+    margin: auto 10px;
+    font-size: 12px;
+    color: blue;
+    border-radius: 6px;
+    border: 2px solid lightblue;
+    padding: 10px;
+}
+
+body{
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+}
